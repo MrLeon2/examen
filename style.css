@@ -1,0 +1,64 @@
+h2 {
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 30px;
+}
+
+h2 span {
+    background-color: yellow;
+}
+
+.information {
+    color: darkblue;
+}
+.information span {
+    color: red;
+}
+.cars {
+    color: green;
+}
+
+.model-y {
+    color: red;
+}
+
+.model-x {
+    color: yellow;
+}
+
+.model-3 {
+    color: green;
+}
+
+.model-s {
+    color: gray;
+}
+
+tbody {
+    border-collapse: collapse;
+    border: 3px;
+    background-color: purple;
+    border-color: white;
+}
+
+th {
+    background-color: green;
+}
+span {
+    background-color: black;
+    color: black;
+    border-color: black;
+    border-radius: 2px;
+}
+
+table {
+    text-align: center;
+}
+
+.btn {
+    width: 400px;
+    background-color: green;
+    color: white;
+    border: none;
+}
